@@ -7,6 +7,8 @@ Filmania is a full-stack **Node.js + React** movie application where users can:
 
 It features a clean and responsive UI with React and TailwindCSS, and a RESTful backend built with Node.js and Express. <br />
 
+## Application is live at
+ https://ellafsd.github.io/filmania-movie-app/
 
 ## 🎬 Screenshots
 
