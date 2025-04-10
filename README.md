@@ -24,8 +24,7 @@ It features a clean and responsive UI with React and TailwindCSS, and a RESTful 
 
 
 ## 🔧 Backend Technologies
-- Node.js
-- Express.js    <br /><br /><br />  
+- Node.js  <br /><br /><br />  
 
 ## 🔧Frontend Technologies
 - react vite
